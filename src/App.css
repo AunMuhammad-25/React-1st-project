@@ -9,7 +9,7 @@
     font-family: sans-serif;
 }
 .header-banner-main {
-    background-image: url(./images/Rectangle\ 10.png);
+    background-image: url(/images/Rectangle\ 10.png);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -140,7 +140,7 @@
     align-items: center;
 }
 .card-1 {
-    background-image: url(./images/Rectangle\ 69.png);
+    background-image: url(/images/Rectangle\ 69.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -191,7 +191,7 @@
 .section-3 {
     text-align: center;
     margin-top: 10%;
-    background-image: url(./images/Rectangle\ 45.png);
+    background-image: url(/images/Rectangle\ 45.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -290,7 +290,7 @@
 .section-5 {
     text-align: center;
     margin-top: 10%;
-    background-image: url(./images/Rectangle\ 41.png);
+    background-image: url(/images/Rectangle\ 41.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -405,7 +405,7 @@ margin-bottom: 7%;
 /* /////////////////////////////////////////////////////////////// */
 .section-7 {
 
-    background-image: url(./images/Rectangle\ 75.png);
+    background-image: url(/images/Rectangle\ 75.png);
     padding-bottom: 50px;
     height: 500px;
 }
